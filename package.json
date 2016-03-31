@@ -1,0 +1,30 @@
+{
+  "name": "washit",
+  "version": "1.0.0",
+  "description": "A window washer utility",
+  "main": "run.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksotello/washit.git"
+  },
+  "keywords": [
+    "window",
+    "washer",
+    "browser",
+    "clear",
+    "cache",
+    "cleaner",
+    "utility",
+    "tool",
+    "windows"
+  ],
+  "author": "ksotello",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ksotello/washit/issues"
+  },
+  "homepage": "https://github.com/ksotello/washit#readme"
+}
